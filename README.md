@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on HTML
 - 🌱 I’m currently learning Github through tutorials nd docs, and HTML and CSS with help from Devslopes Academy!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with anything at this point, I am ready to learn!
