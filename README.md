@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on HTML
-- 🌱 I’m currently learning Github through tutorials nd docs, and HTML and CSS with help from Devslopes Academy!
+- 🔭 I’m currently working on CSS videos and assignments.
+- 🌱 I’m currently learning GitHub and CSS with help from Devslopes Academy!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with anything at this point, I am ready to learn!
 - 💬 Ask me about my coding journey, career goals, videogames, travel destinations!
